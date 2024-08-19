@@ -1,1 +1,1 @@
-# flat-planet-labs.github.io
+flatplanetlabs.com
